@@ -7,4 +7,4 @@ The result are in the dropdown menu with following options [Need Testing , Passe
 Add the execution result in the  result column<br/>
 Attach BUG [JIRA ID] in the Bugs column<br/>
 Add comments if required<br/>
-Assignment - 2<br/>
+
